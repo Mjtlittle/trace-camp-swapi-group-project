@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-import React from 'react'
-
-const People = () => {
-    return (
-        <div>
-            
-        </div>
-    )
-=======
 import React, { Component } from 'react';
 import './People.css';
 import axios from "axios";
@@ -46,7 +36,6 @@ class People extends Component {
             </div>
         );
     }
->>>>>>> 08db9b8eda58c349ce3344ed77fa48cff1cac8ab
 }
 
 export default People
