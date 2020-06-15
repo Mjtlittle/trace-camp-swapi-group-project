@@ -11,10 +11,10 @@ const Planets = () => {
     // load from api on mount
     useEffect(() => {
         
-        axios.get('https://swapi.dev/api/planets').then(({ data }) => {
+        axios.get('https://swapi.dev/api/planets/').then(({ data }) => {
             setPlanets(data.results)
         });
-
+        
         return () => {};
     }, [])
 
