@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  color: white;
+  background-image: url('https://img.freepik.com/free-vector/space-with-stars-universe-space-infinity-background_78474-99.jpg?size=626&ext=jpg');
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.App-link {
+  margin-right: 1em;
+  color: white;
+  text-decoration: none;
+}
+
+.App-link:hover {
+  color: var(--yellow);
+}
