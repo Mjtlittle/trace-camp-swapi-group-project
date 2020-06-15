@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-import React from 'react'
-
-const Vehicles = () => {
-    return (
-        <div>
-        </div>
-    )
-}
-
-export default Vehicles
-=======
 import React, {Component} from 'react'
 import './Vehicles.css';
 import axios from 'axios';
@@ -59,4 +47,3 @@ class Vehicles extends Component {
 }
 
 export default Vehicles;
->>>>>>> 08db9b8eda58c349ce3344ed77fa48cff1cac8ab
