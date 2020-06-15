@@ -4,8 +4,6 @@ import axios from 'axios';
 
 import PlanetDeck from '../components/PlanetDeck';
 
-import { CardDeck, CardColumns } from 'react-bootstrap';
-
 const Planets = () => {
 
     const [ planets, setPlanets ] = useState([]);

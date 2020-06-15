@@ -2,8 +2,7 @@ import React from 'react';
 import './App.css';
 
 import { BrowserRouter, Link, Route } from 'react-router-dom';
-import { Navbar, Container, Nav, NavItem } from 'react-bootstrap';
-import { LinkContainer } from "react-router-bootstrap";
+import { Navbar, Nav } from 'react-bootstrap';
 
 import Home from './pages/Home';
 import Spaceships from './pages/Spaceships';

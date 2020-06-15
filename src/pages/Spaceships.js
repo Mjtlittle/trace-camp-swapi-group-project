@@ -18,7 +18,7 @@ class Spaceships extends Component {
                 {this.state.starships && (
                     <React.Fragment>
                         <h1>{this.state.starships.name}</h1>
-                        <img className="spaceship-img"src= "https://vignette.wikia.nocookie.net/starwars/images/5/58/ISD-I.png/revision/latest/scale-to-width-down/340?cb=20150416041211" />
+                        <img className="spaceship-img" src= "https://vignette.wikia.nocookie.net/starwars/images/5/58/ISD-I.png/revision/latest/scale-to-width-down/340?cb=20150416041211" alt=''/>
                     <div className="spaceship-text">
                         <p>Model: {this.state.starships.model}</p>
                         <p>Manufacturer: {this.state.starships.manufacturer}</p>
