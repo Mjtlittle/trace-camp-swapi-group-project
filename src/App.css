@@ -1,8 +1,11 @@
 .App {
   text-align: center;
-  height: 100vh;
   color: white;
+
+  min-height: 100vh;
+
   background-image: url('https://img.freepik.com/free-vector/space-with-stars-universe-space-infinity-background_78474-99.jpg?size=626&ext=jpg');
+  background-attachment: fixed;
 }
 
 .App-link {
