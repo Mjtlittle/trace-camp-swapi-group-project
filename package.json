@@ -11,6 +11,10 @@
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
+<<<<<<< HEAD
+=======
+    "react-icons": "^3.10.0",
+>>>>>>> 08db9b8eda58c349ce3344ed77fa48cff1cac8ab
     "react-router-bootstrap": "^0.25.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"

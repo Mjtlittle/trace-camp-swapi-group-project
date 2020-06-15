@@ -1,0 +1,9 @@
+.PlanetCard {
+    color: black;
+    width: 25em;
+    margin: 1em;
+}
+
+.PlanetCard-icon {
+    size: 5em;
+}

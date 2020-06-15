@@ -1,0 +1,24 @@
+.Vehicles-title{
+    color:black;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: yellow;
+    font-size:50px;
+}
+
+.Veh-container{
+    background-color: black;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.Vehicle-name{
+    color: yellow;
+}
+
+.Vehicles-button{
+    background-color: yellow;
+}
+
+.Vehicles-button:hover{
+    background-color: white;
+}
